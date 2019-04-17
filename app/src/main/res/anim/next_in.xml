@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+显示下一个动画进来的效果
+fromXDelta 起点
+toXDelta 终点
+-->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXDelta="100%p"
+    android:toXDelta="0"
+    android:fromYDelta="0"
+    android:toYDelta="0"
+    >
+
+</translate>
